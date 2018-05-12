@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '38761'
     url: http://www.gutenberg.org/2009/agents/38761
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37305#Roman-d-Eustache-le-moine-pirate-fameux-du-XIIIe-si-clebiblioth-que-royale
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2011-09-03'
 gutenberg_type: Text
